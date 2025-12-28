@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I’m SPratham73, an Aspiring Software Engineer and Computer Science Engineering student. I’m interested in Data Structures & Algorithms and Web Development, and I enjoy building projects to strengthen my problem-solving skills.<br><br>Currently, I’m working on college mini-projects and learning C for DSA along with HTML, CSS, and JavaScript for web development. I’m open to collaborating on web development projects and DSA practice.
+Hi, I’m Pratham, an Aspiring Software Engineer and Computer Science Engineering student. I’m interested in Data Structures & Algorithms and Web Development, and I enjoy building projects to strengthen my problem-solving skills.<br><br>Currently, I’m working on college mini-projects and learning C for DSA along with HTML, CSS, and JavaScript for web development. I’m open to collaborating on web development projects and DSA practice.
 
 
 ## 🌐 Socials:
