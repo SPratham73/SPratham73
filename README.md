@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I’m Pratham, an Aspiring Software Engineer and Computer Science Engineering student. I’m interested in Data Structures & Algorithms and Web Development, and I enjoy building projects to strengthen my problem-solving skills.<br><br>Currently, I’m working on college mini-projects and learning C for DSA along with HTML, CSS, and JavaScript for web development. I’m open to collaborating on web development projects and DSA practice.
+Hi, I’m Pratham, a Computer Science Engineering student and aspiring Software Engineer with a strong interest in game development. I’m currently learning 3D game development using Unity and working on my own game projects. I enjoy understanding how game mechanics,and systems work internally, and I’m passionate about exploring different aspects of game design and testing.
 
 
 ## 🌐 Socials:
