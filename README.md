@@ -12,7 +12,7 @@ Hi, I’m Pratham, a Computer Science Engineering student and aspiring Software 
 ![](https://nirzak-streak-stats.vercel.app/?user=SPratham73&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SPratham73&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=SPratham73&theme=dark)](https://git.io/streak-stats)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=SPratham73&theme=transparent&no-frame=false&no-bg=true&margin-w=4)
